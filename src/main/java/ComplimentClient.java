@@ -7,8 +7,8 @@ import org.json.JSONObject;
 
 public class ComplimentClient {
 
-    private static final String SERVER_URL = "http://127.0.0.1:8080/";
-    //private static final String SERVER_URL = "https://evening-escarpment-60141.herokuapp.com/";
+    //private static final String SERVER_URL = "http://127.0.0.1:8080/";
+    private static final String SERVER_URL = "https://evening-escarpment-60141.herokuapp.com/";
     private static final String TEXT = "text"; // key for reading JSON
 
     private static final String USER_ERROR_MSG = "<html>Sorry, an error happened." +
